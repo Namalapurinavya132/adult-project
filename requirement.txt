@@ -1,6 +1,7 @@
-fast api
+fastapi
 uvicorn
 pandas
 scikit-learn
 joblib
+
 pydantic
