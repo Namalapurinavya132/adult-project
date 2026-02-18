@@ -1,19 +1,6 @@
+fast api
+uvicorn
 pandas
-
+scikit-learn
 joblib
-
-scikit-learn (sklearn)
-
-model_selection
-
-tree
-
-compose
-
-preprocessing
-
-pipeline
-
-metrics
-
-If you want, I c
+pydantic
